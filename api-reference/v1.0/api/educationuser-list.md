@@ -74,7 +74,7 @@ GET https://graph.microsoft.com/v1.0/education/users
 <!-- {
   "blockType": "response",
   "truncated": true,
-  "@odata.type": "Collection(microsoft.education.rostering.api.educationUser)"
+  "@odata.type": "Collection(microsoft.graph.educationUser)"
 }
 -->
 

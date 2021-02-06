@@ -74,7 +74,7 @@ GET https://graph.microsoft.com/v1.0/education/classes/{educationClassId}/member
 <!-- {
   "blockType": "response",
   "truncated": true,
-  "@odata.type": "Collection(microsoft.education.rostering.api.educationClass)"
+  "@odata.type": "Collection(microsoft.graph.educationClass)"
 }
 -->
 

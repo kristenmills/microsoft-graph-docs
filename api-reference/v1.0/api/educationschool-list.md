@@ -76,7 +76,7 @@ GET https://graph.microsoft.com/v1.0/education/schools
 <!-- {
   "blockType": "response",
   "truncated": true,
-  "@odata.type": "Collection(microsoft.education.rostering.api.educationSchool)"
+  "@odata.type": "Collection(microsoft.graph.educationSchool)"
 }
 -->
 

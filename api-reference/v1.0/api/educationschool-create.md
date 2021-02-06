@@ -115,7 +115,7 @@ Content-length: 601
 <!-- {
   "blockType": "response",
   "truncated": true,
-  "@odata.type": "microsoft.education.rostering.api.educationSchool"
+  "@odata.type": "microsoft.graph.educationSchool"
 }
 -->
 

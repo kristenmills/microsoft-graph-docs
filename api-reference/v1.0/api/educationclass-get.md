@@ -73,7 +73,7 @@ GET https://graph.microsoft.com/v1.0/education/classes/{educationClassId}
 <!-- {
   "blockType": "response",
   "truncated": true,
-  "@odata.type": "microsoft.education.rostering.api.educationClass"
+  "@odata.type": "microsoft.graph.educationClass"
 }
 -->
 

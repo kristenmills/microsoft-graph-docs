@@ -65,7 +65,7 @@ The following is a JSON representation of the resource.
   "blockType": "resource",
   "keyProperty": "id",
   "@odata.type": "microsoft.graph.educationSchool",
-  "baseType": "microsoft.education.rostering.api.educationOrganization",
+  "baseType": "microsoft.graph.educationOrganization",
   "openType": false
 }
 -->

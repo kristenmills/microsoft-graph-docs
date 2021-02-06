@@ -168,7 +168,7 @@ Content-length: 1603
 <!-- {
   "blockType": "response",
   "truncated": true,
-  "@odata.type": "microsoft.education.rostering.api.educationUser"
+  "@odata.type": "microsoft.graph.educationUser"
 }
 -->
 
