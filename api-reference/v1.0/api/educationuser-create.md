@@ -98,7 +98,7 @@ Content-Type: application/json
 Content-length: 1603
 
 {
-  "@odata.type": "#microsoft.education.rostering.api.educationUser",
+  "@odata.type": "#microsoft.graph.educationUser",
   "primaryRole": "String",
   "middleName": "String",
   "externalSource": "String",
@@ -177,7 +177,7 @@ HTTP/1.1 201 Created
 Content-Type: application/json
 
 {
-  "@odata.type": "#microsoft.education.rostering.api.educationUser",
+  "@odata.type": "#microsoft.graph.educationUser",
   "primaryRole": "String",
   "middleName": "String",
   "externalSource": "String",

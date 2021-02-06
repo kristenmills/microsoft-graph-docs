@@ -85,7 +85,7 @@ Content-Type: application/json
 Content-length: 601
 
 {
-  "@odata.type": "#microsoft.education.rostering.api.educationSchool",
+  "@odata.type": "#microsoft.graph.educationSchool",
   "displayName": "String",
   "description": "String",
   "externalSource": "String",
@@ -124,7 +124,7 @@ HTTP/1.1 201 Created
 Content-Type: application/json
 
 {
-  "@odata.type": "#microsoft.education.rostering.api.educationSchool",
+  "@odata.type": "#microsoft.graph.educationSchool",
   "displayName": "String",
   "description": "String",
   "externalSource": "String",

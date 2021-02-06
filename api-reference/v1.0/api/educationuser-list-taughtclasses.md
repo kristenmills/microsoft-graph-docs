@@ -85,7 +85,7 @@ Content-Type: application/json
 {
   "value": [
     {
-      "@odata.type": "#microsoft.education.rostering.api.educationClass",
+      "@odata.type": "#microsoft.graph.educationClass",
       "displayName": "String",
       "mailNickname": "String",
       "description": "String",
