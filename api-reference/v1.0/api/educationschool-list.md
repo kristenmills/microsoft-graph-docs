@@ -32,9 +32,6 @@ One of the following permissions is required to call this API. To learn more, in
 
 ```http
 GET /education/schools
-GET /education/me/schools
-GET /education/users/{id}/schools
-GET /education/classes/{id}/schools
 ```
 
 ## Optional query parameters
@@ -88,6 +85,7 @@ Content-Type: application/json
   "value": [
     {
       "@odata.type": "#microsoft.graph.educationSchool",
+      "id": "1c23c12e-c12e-1c23-2ec1-231c2ec1231c",
       "displayName": "String",
       "description": "String",
       "externalSource": "String",

@@ -84,6 +84,7 @@ Content-Type: application/json
 {
   "value": {
     "@odata.type": "#microsoft.graph.educationClass",
+    "id": "64ef8ce5-8ce5-64ef-e58c-ef64e58cef64",
     "displayName": "String",
     "mailNickname": "String",
     "description": "String",

@@ -95,7 +95,7 @@ If successful, this method returns a `201 Created` response code and an [educati
 ```http
 POST https://graph.microsoft.com/v1.0/education/users
 Content-Type: application/json
-Content-length: 1603
+Content-length: 1585
 
 {
   "@odata.type": "#microsoft.graph.educationUser",
@@ -178,6 +178,7 @@ Content-Type: application/json
 
 {
   "@odata.type": "#microsoft.graph.educationUser",
+  "id": "90eedea1-dea1-90ee-a1de-ee90a1deee90",
   "primaryRole": "String",
   "middleName": "String",
   "externalSource": "String",

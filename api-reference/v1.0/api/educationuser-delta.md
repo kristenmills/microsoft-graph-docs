@@ -81,6 +81,7 @@ Content-Type: application/json
   "value": [
     {
       "@odata.type": "#microsoft.graph.educationUser",
+      "id": "String (identifier)",
       "primaryRole": "String",
       "middleName": "String",
       "externalSource": "String",
