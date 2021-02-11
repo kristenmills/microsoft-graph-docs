@@ -17,13 +17,13 @@ Inherits from [entity](../resources/entity.md).
 
 ## Properties
 
-| Property             | Type                    | Description                                                                                                         |
-| :------------------- | :---------------------- | :------------------------------------------------------------------------------------------------------------------ |
-| description          | String                  | Organization description.                                                                                           |
-| displayName          | String                  | Organization display name.                                                                                          |
-| externalSource       | educationExternalSource | Source where this organization was created from. Possible values are: `sis`, `manual`, `unknownFutureValue`, `lms`. |
-| externalSourceDetail | String                  | The name of the external source this resources was generated from.                                                  |
-| id                   | String                  | Object identifier. Inherited from [entity](../resources/entity.md)                                                  |
+| Property             | Type                    | Description                                                                            |
+| :------------------- | :---------------------- | :------------------------------------------------------------------------------------- |
+| description          | String                  | Organization description.                                                              |
+| displayName          | String                  | Organization display name.                                                             |
+| externalSource       | educationExternalSource | Source where this organization was created from. Possible values are: `sis`, `manual`. |
+| externalSourceDetail | String                  | The name of the external source this resources was generated from.                     |
+| id                   | String                  | Object identifier. Inherited from [entity](../resources/entity.md)                     |
 
 ## Relationships
 

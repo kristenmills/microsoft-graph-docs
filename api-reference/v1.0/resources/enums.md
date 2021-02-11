@@ -174,7 +174,6 @@ Namespace: microsoft.graph
 | sis                |
 | manual             |
 | unknownFutureValue |
-| lms                |
 
 ### educationGender values
 
@@ -222,7 +221,6 @@ Namespace: microsoft.graph
 | teacher            |
 | none               |
 | unknownFutureValue |
-| faculty            |
 
 ### meetingMessageType values
 
