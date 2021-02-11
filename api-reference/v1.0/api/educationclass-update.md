@@ -109,7 +109,8 @@ Content-length: 533
 
 <!-- {
   "blockType": "response",
-  "truncated": true
+  "truncated": true,
+  "@odata.type": "microsoft.graph.educationClass"
 }
 -->
 
